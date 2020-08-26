@@ -1,6 +1,6 @@
-# Pytorch_Learning-Kaggle
+# TensorFlow_Learning-Kaggle
 
-DataSet : Kaggle or pytorch library
+DataSet : Kaggle or Tensorflow dataset
 
 analysis and prediction model 
 
